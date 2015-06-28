@@ -1,8 +1,12 @@
 ---
-published: true
-category: blog
 layout: blog
+category: blog
+published: true
 splash: "http://placehold.it/1600x500"
+title: "MOM's Club of Layton"
 ---
 
-Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.
+The MOMS Club® is an international nonprofit organization specifically for at-home mothers. Our goals include providing support to at-home mothers, providing a forum for topics of interest to women and giving mothers a chance to associate with others without having to leave their children behind.
+
+We give moms and their children a chance to socialize and have fun. Nearly all of our activities are held during the daytime and your children are always welcome! We feel that being home with your children does not have to mean being isolated. It's a great way to meet new people and make new friends.
+
